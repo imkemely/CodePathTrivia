@@ -4,7 +4,7 @@ Submitted by: **Kemely Alfonso**
 
 **Trivia App** is an iOS application that fetches trivia questions from the Open Trivia Database API and allows users to test their knowledge across various categories.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
